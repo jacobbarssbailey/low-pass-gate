@@ -9,24 +9,24 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="9" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="9" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="16" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -35,8 +35,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -44,19 +44,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -6896,8 +6896,6 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 </classes>
 <parts>
 <part name="P1" library="eurorack" deviceset="POWER_SIMPLE" device="10_SHROUDED" value="POWER_SIMPLE10_SHROUDED"/>
-<part name="C14" library="SparkFun-Passives" deviceset="CAP_POL" device="D" value="100u"/>
-<part name="C18" library="SparkFun-Passives" deviceset="CAP_POL" device="D" value="100u"/>
 <part name="P+12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+12V" device=""/>
 <part name="P-2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="-12V" device=""/>
 <part name="IC4" library="linear" library_urn="urn:adsk.eagle:library:262" deviceset="TL072" device="D" package3d_urn="urn:adsk.eagle:package:16404/2" value="TL072"/>
@@ -7057,6 +7055,8 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <part name="Q2" library="barsstronics" deviceset="JFET-N" device="MMBF5484" value="112"/>
 <part name="R35" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="0R"/>
 <part name="R36" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="0R"/>
+<part name="C21" library="SparkFun-Passives" deviceset="CAP_POL" device="PTH1" value="100u"/>
+<part name="C22" library="SparkFun-Passives" deviceset="CAP_POL" device="PTH1" value="100u"/>
 </parts>
 <sheets>
 <sheet>
@@ -7069,14 +7069,6 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <instances>
 <instance part="P1" gate="G$1" x="-132.08" y="-86.36" smashed="yes">
 <attribute name="NAME" x="-137.414" y="-80.264" size="1.27" layer="95"/>
-</instance>
-<instance part="C14" gate="G$1" x="-88.9" y="-78.74" smashed="yes">
-<attribute name="NAME" x="-87.884" y="-78.105" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-87.884" y="-82.931" size="1.778" layer="96"/>
-</instance>
-<instance part="C18" gate="G$1" x="-88.9" y="-91.44" smashed="yes">
-<attribute name="NAME" x="-87.884" y="-90.805" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-87.884" y="-95.631" size="1.778" layer="96"/>
 </instance>
 <instance part="P+12" gate="1" x="-96.52" y="-68.58" smashed="yes">
 <attribute name="VALUE" x="-99.06" y="-73.66" size="1.778" layer="96" rot="R90"/>
@@ -7649,6 +7641,14 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <attribute name="NAME" x="125.9586" y="-39.37" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="121.158" y="-39.37" size="1.778" layer="96" rot="R270"/>
 </instance>
+<instance part="C21" gate="G$1" x="-88.9" y="-78.74" smashed="yes">
+<attribute name="NAME" x="-87.884" y="-78.105" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-87.884" y="-80.391" size="1.778" layer="96"/>
+</instance>
+<instance part="C22" gate="G$1" x="-88.9" y="-91.44" smashed="yes">
+<attribute name="NAME" x="-87.884" y="-90.805" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-87.884" y="-93.091" size="1.778" layer="96"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -7782,11 +7782,9 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <segment>
 <pinref part="D7" gate="G$1" pin="A"/>
 <pinref part="D8" gate="G$1" pin="C"/>
-<pinref part="C14" gate="G$1" pin="-"/>
 <pinref part="P1" gate="G$1" pin="GND"/>
 <wire x1="-121.92" y1="-86.36" x2="-88.9" y2="-86.36" width="0.1524" layer="91"/>
 <wire x1="-88.9" y1="-86.36" x2="-88.9" y2="-83.82" width="0.1524" layer="91"/>
-<pinref part="C18" gate="G$1" pin="+"/>
 <wire x1="-88.9" y1="-88.9" x2="-88.9" y2="-86.36" width="0.1524" layer="91"/>
 <junction x="-88.9" y="-86.36"/>
 <wire x1="-88.9" y1="-86.36" x2="-76.2" y2="-86.36" width="0.1524" layer="91"/>
@@ -7796,6 +7794,8 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <pinref part="GND50" gate="1" pin="GND"/>
 <wire x1="-76.2" y1="-86.36" x2="-68.58" y2="-86.36" width="0.1524" layer="91"/>
 <wire x1="-68.58" y1="-86.36" x2="-68.58" y2="-101.6" width="0.1524" layer="91"/>
+<pinref part="C21" gate="G$1" pin="-"/>
+<pinref part="C22" gate="G$1" pin="+"/>
 </segment>
 <segment>
 <pinref part="C5" gate="G$1" pin="2"/>
@@ -7968,7 +7968,6 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 </net>
 <net name="+12V" class="0">
 <segment>
-<pinref part="C14" gate="G$1" pin="+"/>
 <wire x1="-88.9" y1="-76.2" x2="-88.9" y2="-73.66" width="0.1524" layer="91"/>
 <wire x1="-88.9" y1="-73.66" x2="-96.52" y2="-73.66" width="0.1524" layer="91"/>
 <wire x1="-96.52" y1="-73.66" x2="-96.52" y2="-83.82" width="0.1524" layer="91"/>
@@ -7981,6 +7980,7 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <wire x1="-88.9" y1="-73.66" x2="-76.2" y2="-73.66" width="0.1524" layer="91"/>
 <wire x1="-76.2" y1="-73.66" x2="-76.2" y2="-78.74" width="0.1524" layer="91"/>
 <junction x="-88.9" y="-73.66"/>
+<pinref part="C21" gate="G$1" pin="+"/>
 </segment>
 <segment>
 <pinref part="C15" gate="G$1" pin="1"/>
@@ -8086,7 +8086,6 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <pinref part="P1" gate="G$1" pin="-12V"/>
 <wire x1="-121.92" y1="-88.9" x2="-96.52" y2="-88.9" width="0.1524" layer="91"/>
 <wire x1="-96.52" y1="-88.9" x2="-96.52" y2="-99.06" width="0.1524" layer="91"/>
-<pinref part="C18" gate="G$1" pin="-"/>
 <wire x1="-96.52" y1="-99.06" x2="-88.9" y2="-99.06" width="0.1524" layer="91"/>
 <wire x1="-88.9" y1="-99.06" x2="-88.9" y2="-96.52" width="0.1524" layer="91"/>
 <wire x1="-96.52" y1="-99.06" x2="-96.52" y2="-101.6" width="0.1524" layer="91"/>
@@ -8096,6 +8095,7 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <junction x="-88.9" y="-99.06"/>
 <pinref part="D8" gate="G$1" pin="A"/>
 <wire x1="-76.2" y1="-99.06" x2="-76.2" y2="-93.98" width="0.1524" layer="91"/>
+<pinref part="C22" gate="G$1" pin="-"/>
 </segment>
 <segment>
 <pinref part="IC4" gate="P" pin="V-"/>
