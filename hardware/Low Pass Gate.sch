@@ -6783,7 +6783,7 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <part name="R32" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
 <part name="GND39" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C11" library="SparkFun-Passives" deviceset="CAP" device="0805" value="1u"/>
-<part name="C12" library="SparkFun-Passives" deviceset="CAP" device="0805" value="91p"/>
+<part name="C12" library="SparkFun-Passives" deviceset="CAP" device="0805" value="100p"/>
 <part name="GND41" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND48" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND47" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -6844,7 +6844,7 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <part name="R15" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
 <part name="GND15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C2" library="SparkFun-Passives" deviceset="CAP" device="0805" value="1u"/>
-<part name="C3" library="SparkFun-Passives" deviceset="CAP" device="0805" value="91p"/>
+<part name="C3" library="SparkFun-Passives" deviceset="CAP" device="0805" value="100p"/>
 <part name="GND17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND23" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
