@@ -25,7 +25,7 @@ This project provides tested plans for a 8HP Eurorack-format Dual Low Pass Gate.
 | 8 | Schottky Diode |  | SOD323 | D1, D2, D3, D4, D5, D6, D7, D8 |  |
 | 6 | Light Dependent Resistor | SR32-SR3 | VTL5C-SMALL | LDR1, LDR2, LDR3, LDR4, LDR5, LDR6 | [digikey.com](https://www.digikey.com/product-detail/en/advanced-photonix/NSL-32SR3/NSL-32SR3-ND/5039793) and others |
 | 1 | 10 pin Power |  | 10 pin shrouded IDC 2.54mm pitch | P1 |  |
-| 2 | LED[†](#†LEDs) |  | 3mm | LED1, LED2 |  |
+| 2 | LED[†](#leds) |  | 3mm | LED1, LED2 |  |
 
 #### †LEDs
 In the drive circuit, indicator LEDs and LDRs are driven in series, with identical current. For best results, use LEDs that have a acceptable brightness when driven in the range 0mA – 12mA.
