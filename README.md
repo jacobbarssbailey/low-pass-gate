@@ -1,8 +1,9 @@
 # Dual low pass gate
 
-@TODO
+This project provides tested plans for a 8HP Eurorack-format Dual Low Pass Gate.
 
-
+![Assembled module](/media/lpg-assembled.jpg) @TODO
+z
 ## BOM
 
 | Qty | Device | Value | Package | Parts | Notes |
