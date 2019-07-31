@@ -2,8 +2,8 @@
 
 This project provides tested plans for a 8HP Eurorack-format Dual Low Pass Gate.
 
-![Assembled module](/media/lpg-assembled.jpg) @TODO
-z
+![Assembled module](/media/glamour.jpg)
+
 ## BOM
 
 | Qty | Device | Value | Package | Parts | Notes |
@@ -30,8 +30,26 @@ z
 #### †LEDs
 In the drive circuit, indicator LEDs and LDRs are driven in series, with identical current. For best results, use LEDs that have a acceptable brightness when driven in the range 0mA – 12mA.
 
-----
+### Assembly [important!]
+
+The pairs of jacks IN1 & CTRL1 and IN2 & CTRL2 share a ground pin connection. Make sure to check CTRL1 and CTRL2 orientation before soldering.
+
 
 ## Operation and Controls
 
-@TODO
+![Panel with labels](/media/lpg-panel.png)
+
+Each channel of the gate/filter is identical, save that Channel B's Audio Input is normalled to Channel A's.
+
+ The control knob opens the filter and allows audio to pass. It attenuates the Control CV (normalled to =6V).
+
+Pluck CV is a gate-to-trigger converter feeding the control circuit. Gate signals sent to this input will 'pluck' the control circuit, causing it to ring out.
+
+ The mute input (normalled to =10V) will both shorten the response time of the filter, and apply a very mild hi-pass filter. In a musical sense, its effect on the filter is akin to softly holding a palm against a rung bell or plucked string.
+
+
+## Other notes
+
+Increasing the capacitance of C21 and C22 will increase the resonance of the low pass filter. Quite strong filter resonance is achievable by changing this component value.
+
+Other LDRs/Vactrols may work equally well. If test any and have particular recommendations, please open an issue here.
