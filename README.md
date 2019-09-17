@@ -47,6 +47,8 @@ Pluck CV is a gate-to-trigger converter feeding the control circuit. Gate signal
 
  The mute input (normalled to =10V) will both shorten the response time of the filter, and apply a very mild hi-pass filter. In a musical sense, its effect on the filter is akin to softly holding a palm against a rung bell or plucked string.
 
+ At very low values, near 0V the mute input will allow some audio to pass through the circuit without any control input. If this isn't desired, turn the mute knob up to 15-20%.
+
 
 ## Other notes
 
