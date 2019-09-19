@@ -6775,7 +6775,7 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <part name="GND32" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="GND" device=""/>
 <part name="LDR5" library="optocoupler" deviceset="VTL5C*" device="SMALL" technology="9" value="VTL5C9SMALL"/>
 <part name="LDR4" library="optocoupler" deviceset="VTL5C*" device="SMALL" technology="9" value="VTL5C9SMALL"/>
-<part name="C13" library="SparkFun-Passives" deviceset="CAP" device="0805" value="560p"/>
+<part name="C13" library="SparkFun-Passives" deviceset="CAP" device="0805" value="1500p"/>
 <part name="GND42" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R31" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10K"/>
 <part name="GND44" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -6836,7 +6836,7 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <part name="GND8" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="GND" device=""/>
 <part name="LDR2" library="optocoupler" deviceset="VTL5C*" device="SMALL" technology="9" value="VTL5C9SMALL"/>
 <part name="LDR1" library="optocoupler" deviceset="VTL5C*" device="SMALL" technology="9" value="VTL5C9SMALL"/>
-<part name="C4" library="SparkFun-Passives" deviceset="CAP" device="0805" value="560p"/>
+<part name="C4" library="SparkFun-Passives" deviceset="CAP" device="0805" value="1500p"/>
 <part name="GND18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R14" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10K"/>
 <part name="GND19" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>

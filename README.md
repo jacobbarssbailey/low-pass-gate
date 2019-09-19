@@ -14,8 +14,9 @@ This project provides tested plans for a 8HP Eurorack-format Dual Low Pass Gate.
 | 4 | Resistor | 100K | 0603 | R8, R16, R25, R33 | |
 | 12 | Resistor | 200K | 0603 | R1, R2, R3, R5, R10, R12, R18, R19, R21, R22, R26, R29 | |
 | 2 | Capacitor | 100p | 0603 | C3, C12 | |
+| 2 | Capacitor | 560p | 0603 | C21, C22 | |
+| 2 | Capacitor | 1.5n | 0603 | C4, C13 | |
 | 8 | Capacitor | 100n | 0603 | C1, C5, C6, C8, C10, C15, C16, C19 | |
-| 4 | Capacitor | 560p | 0603 | C4, C13, C21, C22 | |
 | 2 | Capacitor | 1µ | 0603 | C2, C11 | |
 | 2 | Capacitor (Pol) | 47µ–100µ | Panasonic D | C14, C18 | |
 | 4 | Pot | 100K | ALPS 9mm Vert | GAIN1, GAIN2, RMUTE1, RMUTE2 | |
