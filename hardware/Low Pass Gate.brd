@@ -1441,11 +1441,11 @@ Source: www.perkinelmer.com/opto ... vtl5c9_c10.pdf</description>
 <attribute name="NAME" x="22.9235" y="65.913" size="0.5588" layer="25" font="vector" ratio="13" rot="R90" align="center-left"/>
 <attribute name="VALUE" x="23.876" y="65.913" size="0.4064" layer="27" font="vector" ratio="13" rot="R90"/>
 </element>
-<element name="R9" library="SparkFun-Passives" package="0603-RES" value="2K2" x="24.765" y="64.135" smashed="yes" rot="R270">
+<element name="R9" library="SparkFun-Passives" package="0603-RES" value="4K7" x="24.765" y="64.135" smashed="yes" rot="R270">
 <attribute name="NAME" x="24.8285" y="65.913" size="0.5588" layer="25" font="vector" ratio="13" rot="R90" align="center-left"/>
 <attribute name="VALUE" x="25.781" y="65.913" size="0.4064" layer="27" font="vector" ratio="13" rot="R90"/>
 </element>
-<element name="R27" library="SparkFun-Passives" package="0603-RES" value="2K2" x="24.765" y="13.335" smashed="yes" rot="R270">
+<element name="R27" library="SparkFun-Passives" package="0603-RES" value="4K7" x="24.765" y="13.335" smashed="yes" rot="R270">
 <attribute name="NAME" x="24.8285" y="15.113" size="0.5588" layer="25" font="vector" ratio="13" rot="R90" align="center-left"/>
 <attribute name="VALUE" x="25.781" y="15.113" size="0.4064" layer="27" font="vector" ratio="13" rot="R90"/>
 </element>

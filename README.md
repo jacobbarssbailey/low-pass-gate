@@ -9,7 +9,7 @@ This project provides tested plans for a 8HP Eurorack-format Dual Low Pass Gate.
 | Qty | Device | Value | Package | Parts | Notes |
 | --- | ------ | ----- | ------- | ----- | ----- |
 | 8 | Resistor | 1K | 0603 | R7, R11, R15, R24, R28, R32 | |
-| 2 | Resistor | 2.2K | 0603 | R9, R27 | |
+| 2 | Resistor | 4.7K | 0603 | R9, R27 | |
 | 4 | Resistor | 47K | 0603 | R13, R17, R30, R34 | |
 | 4 | Resistor | 10K | 0603 | R4, R14, R20, R31 | |
 | 4 | Resistor | 100K | 0603 | R8, R16, R25, R33 | |
